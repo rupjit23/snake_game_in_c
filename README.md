@@ -1,7 +1,7 @@
 # snake_game_in_c
 Snake Game in C
 
-This is a simple Snake Game implemented in C, designed to run in a terminal. The game features a growing snake, fruit collection, and self-collision detection.
+This is a simple Snake Game implemented in C, designed to run in a terminal. The game features a growing snake, rat collection, and self-collision detection.
 
 🚀 Features
 
@@ -9,9 +9,9 @@ Smooth real-time movement without flickering
 
 Edge wrapping (Snake moves across screen borders)
 
-Fruit spawning at random positions
+rat spawning at random positions
 
-Tail growth upon eating fruit
+Tail growth upon eating rat
 
 Self-collision detection (Game Over if the snake hits itself)
 
@@ -33,7 +33,7 @@ D → Move Right
 
 X → Exit the game
 
-Eat the fruit (F) to gain points and grow longer.
+Eat the rat (🐀) to gain points and grow longer.
 
 Avoid hitting yourself!
 
