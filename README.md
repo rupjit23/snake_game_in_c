@@ -5,6 +5,7 @@ This is a simple Snake Game implemented in C, designed to run in a terminal. The
 
 🚀 Features
 
+
 Smooth real-time movement without flickering
 
 Edge wrapping (Snake moves across screen borders)
